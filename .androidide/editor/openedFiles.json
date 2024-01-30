@@ -379,14 +379,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/gitupload.sh",
       "selection": {
         "end": {
-          "column": 23,
-          "index": 449,
-          "line": 12
+          "column": 16,
+          "index": 271,
+          "line": 7
         },
         "start": {
-          "column": 23,
-          "index": 449,
-          "line": 12
+          "column": 16,
+          "index": 271,
+          "line": 7
         }
       }
     },
@@ -421,5 +421,5 @@
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AQemu/gitupload.sh"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AQemu/gradle/wrapper/gradle-wrapper.properties"
 }
