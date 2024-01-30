@@ -1,3 +1,4 @@
+apt install git git-lfs
 cd .
 #git config --global --add safe.directory /storage/emulated/0/AndroidIDEProjects/AQemu
 #git config advice.ignoredHook false

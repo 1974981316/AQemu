@@ -379,14 +379,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/gitupload.sh",
       "selection": {
         "end": {
-          "column": 0,
-          "index": 532,
-          "line": 14
+          "column": 23,
+          "index": 23,
+          "line": 0
         },
         "start": {
-          "column": 0,
-          "index": 532,
-          "line": 14
+          "column": 23,
+          "index": 23,
+          "line": 0
         }
       }
     },
