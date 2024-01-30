@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+	<item android:id="@+id/item_1"
+        android:title="虚拟机"
+		android:icon="@drawable/round_desktop_windows_24"/>
+    <item  android:id="@+id/item_2"
+        android:title="镜像商店"
+		android:icon="@drawable/round_cloud_download_24"/>
+    <item android:id="@+id/item_3"
+        android:title="镜像工厂"
+		android:icon="@drawable/round_build_24"/>
+</menu>

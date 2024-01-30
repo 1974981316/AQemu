@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/apk/tools"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:orientation="vertical"
+     tools:context=".MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+         android:layout_height="144dp"
+         android:layout_width="match_parent"
+         android:fitsSystemWindows="true"
+         android:id="@+id/appbar">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             app:contentScrim="?colorSurface"
+             app:layout_scrollFlags="scroll|exitUntilCollapsed"
+             android:fitsSystemWindows="true"
+             style="@style/Widget.Material3.CollapsingToolbar.Large"
+             android:id="@+id/collapsingToolbarLayout"
+             app:statusBarScrim="?colorSurface">
+
+            <com.google.android.material.appbar.MaterialToolbar
+                 android:layout_height="?attr/actionBarSize"
+                 android:layout_width="match_parent"
+                 app:layout_collapseMode="pin"
+                 android:id="@+id/toolbar" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+         android:layout_height="match_parent"
+         android:layout_width="match_parent"
+         app:layout_behavior="@string/appbar_scrolling_view_behavior"
+         android:fillViewport="true">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+            android:layout_marginBottom="80dp">
+
+            <fragment
+                 android:layout_height="match_parent"
+                 android:layout_width="match_parent"
+                 android:name="com.swk.aqemu.fragment.EmptyFragment"
+                 android:layout_weight="1"
+                
+                 android:id="@+id/main_fragment_container" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         app:menu="@menu/bottom_nav_menu"
+         android:id="@+id/bnv"
+         android:layout_gravity="bottom" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

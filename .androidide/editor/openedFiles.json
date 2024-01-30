@@ -1,0 +1,425 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/utils/ZipUtil.java",
+      "selection": {
+        "end": {
+          "column": 38,
+          "index": 732,
+          "line": 25
+        },
+        "start": {
+          "column": 38,
+          "index": 732,
+          "line": 25
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 25,
+          "index": 3812,
+          "line": 95
+        },
+        "start": {
+          "column": 25,
+          "index": 3812,
+          "line": 95
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/SplashActivity.java",
+      "selection": {
+        "end": {
+          "column": 81,
+          "index": 4627,
+          "line": 134
+        },
+        "start": {
+          "column": 81,
+          "index": 4627,
+          "line": 134
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/activity_splash.xml",
+      "selection": {
+        "end": {
+          "column": 35,
+          "index": 614,
+          "line": 15
+        },
+        "start": {
+          "column": 3,
+          "index": 399,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": 1863,
+          "line": 52
+        },
+        "start": {
+          "column": 40,
+          "index": 1863,
+          "line": 52
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/utils/BaseActivity.java",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 321,
+          "line": 11
+        },
+        "start": {
+          "column": 11,
+          "index": 321,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/assets/assets.lst",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/utils/Utils.java",
+      "selection": {
+        "end": {
+          "column": 5,
+          "index": 1101,
+          "line": 34
+        },
+        "start": {
+          "column": 5,
+          "index": 1101,
+          "line": 34
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/GlobalApplication.java",
+      "selection": {
+        "end": {
+          "column": 50,
+          "index": 1286,
+          "line": 41
+        },
+        "start": {
+          "column": 50,
+          "index": 1286,
+          "line": 41
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 7,
+          "index": 917,
+          "line": 19
+        },
+        "start": {
+          "column": 7,
+          "index": 917,
+          "line": 19
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/values/attrs.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 145,
+          "line": 4
+        },
+        "start": {
+          "column": 0,
+          "index": 145,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/values-night/themes.xml",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": 99,
+          "line": 1
+        },
+        "start": {
+          "column": 40,
+          "index": 99,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 34,
+          "index": 512,
+          "line": 11
+        },
+        "start": {
+          "column": 34,
+          "index": 512,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/fragment/EmptyFragment.java",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 702,
+          "line": 21
+        },
+        "start": {
+          "column": 8,
+          "index": 702,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/menu/bottom_nav_menu.xml",
+      "selection": {
+        "end": {
+          "column": 30,
+          "index": 188,
+          "line": 4
+        },
+        "start": {
+          "column": 24,
+          "index": 182,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/fragment_empty.xml",
+      "selection": {
+        "end": {
+          "column": 42,
+          "index": 300,
+          "line": 4
+        },
+        "start": {
+          "column": 42,
+          "index": 300,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/fragment_image_factory.xml",
+      "selection": {
+        "end": {
+          "column": 39,
+          "index": 754,
+          "line": 21
+        },
+        "start": {
+          "column": 39,
+          "index": 754,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/fragment_vms.xml",
+      "selection": {
+        "end": {
+          "column": 39,
+          "index": 743,
+          "line": 21
+        },
+        "start": {
+          "column": 39,
+          "index": 743,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/fragment/VmsFragment.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/fragment/ImageStoreFragment.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/java/com/swk/aqemu/fragment/ImageFactoryFragment.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/app/src/main/res/layout/fragment_image_store.xml",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": 753,
+          "line": 21
+        },
+        "start": {
+          "column": 40,
+          "index": 753,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/gradle.properties",
+      "selection": {
+        "end": {
+          "column": 33,
+          "index": 1359,
+          "line": 22
+        },
+        "start": {
+          "column": 33,
+          "index": 1359,
+          "line": 22
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/gitupload.sh",
+      "selection": {
+        "end": {
+          "column": 23,
+          "index": 449,
+          "line": 12
+        },
+        "start": {
+          "column": 23,
+          "index": 449,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/.gitignore",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AQemu/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AQemu/gitupload.sh"
+}
