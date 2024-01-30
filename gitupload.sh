@@ -11,3 +11,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/1974981316/AQemu.git
 git push -u origin main
+git config lfs.https://github.com/1974981316/AQemu.git/info/lfs.locksverify false
+git lfs push --all origin
